@@ -1,0 +1,9 @@
+{
+  "message": "Xin hãy xử lý dữ liệu này.",
+  "data": {
+    "products": [
+      {"id": 1, "name": "Áo thun", "price": 100000},
+      {"id": 2, "name": "Quần jeans", "price": 200000}
+    ]
+  }
+}
